@@ -17,7 +17,7 @@ h1 {
 }
 
 hr {
-    margin-top: 70px;
+    margin-top: 20px;
     border: 7px solid rgba(0, 0, 0, 0.7);
     border-radius: 3px;
 }
@@ -27,7 +27,6 @@ hr {
     border-radius: 5px;
     border-style: solid;
     padding: 2px;
-    margin-top: 50px;
     margin-left: 20px;
     margin-right: 20px;
     line-height: 1.2em;
