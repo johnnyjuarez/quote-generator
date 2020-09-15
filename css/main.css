@@ -54,6 +54,7 @@ hr {
     margin-top: 20%;
     margin-left: 35%;
     box-shadow: 2px 2px 3px 1px black;
+    cursor: pointer;
 }
 
 .newQuote:active {
