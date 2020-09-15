@@ -40,7 +40,7 @@ hr {
 
 .newQuote {
     position: fixed;
-    top: 50%;
+    top: 20%;
     left: 5%;
     background-color: rgba(255, 255, 255, 0.6);
     border: 2px solid black;
@@ -53,7 +53,6 @@ hr {
     font-size: 1em;
     margin-top: 20%;
     margin-left: 35%;
-    position: relative;
     box-shadow: 2px 2px 3px 1px black;
 }
 
